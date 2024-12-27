@@ -12,7 +12,7 @@ const Projects = () => {
       live: "#"
     },
     {
-      title: "AI Chat Application",
+      title: " Chat Application",
       description: "Real-time chat app with AI integration using WebSocket and OpenAI",
       image: "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
       github: "#",

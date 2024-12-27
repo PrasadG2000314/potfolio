@@ -34,7 +34,7 @@ const ProfileImage = () => {
         transition={{ type: "spring", stiffness: 300 }}
       >
         <img
-          src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+          src="/src/components/images/nipun.jpg "
           alt="Profile"
           className="w-full h-full object-cover"
         />

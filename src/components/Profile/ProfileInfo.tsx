@@ -10,12 +10,12 @@ const ProfileInfo = () => {
       transition={{ delay: 0.3 }}
       className="text-center md:text-left md:ml-8"
     >
-      <h2 className="text-3xl font-bold mb-4">John Doe</h2>
+      <h2 className="text-3xl font-bold mb-4">Nipun Gunawardhana</h2>
       <p className="text-gray-400 mb-6">Full Stack Developer & UI/UX Enthusiast</p>
       
       <div className="flex flex-col gap-3">
         {[
-          { Icon: Code2, text: "5+ years of coding experience" },
+          { Icon: Code2, text: "Building robust web applications" },
           { Icon: Globe2, text: "Working with global clients" },
           { Icon: Coffee, text: "Coffee-driven development" }
         ].map(({ Icon, text }, index) => (

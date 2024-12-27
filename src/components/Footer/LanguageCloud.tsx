@@ -15,9 +15,9 @@ const languages: Language[] = [
   { name: 'Python', color: 'text-yellow-300', scale: 1.25 },
   { name: 'SQL', color: 'text-orange-400', scale: 1.1 },
   { name: 'MongoDB', color: 'text-green-500', scale: 1.2 },
-  { name: 'GraphQL', color: 'text-pink-400', scale: 1.15 },
-  { name: 'Docker', color: 'text-blue-500', scale: 1.1 },
-  { name: 'AWS', color: 'text-orange-500', scale: 1.2 }
+  { name: 'Express.js', color: 'text-gray-400', scale: 1.1 },
+  { name: 'Laravel', color: 'text-green-600', scale: 1.15 },
+  { name: 'Next js', color: 'text-blue-400', scale: 1.1 },
 ];
 
 const LanguageCloud = () => {
